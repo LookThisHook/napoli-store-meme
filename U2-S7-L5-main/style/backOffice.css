@@ -1,0 +1,10 @@
+#resultContainer {
+    border: none !important; /* Assicurati che non ci siano bordi */
+    box-shadow: none !important; /* Rimuove eventuali ombre */
+    background-color: transparent; /* Cambia se necessario */
+    padding: 0;
+   
+  }
+#productForm{
+    background-image:url(https://images4.alphacoders.com/127/1272992.png)
+}
